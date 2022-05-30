@@ -3,6 +3,7 @@ package chap02.section1
 import kotlin.math.PI
 import kotlin.math.abs
 
+//// 20220529
 fun main() {
     val into: String = "안녕하세요!"
     val num: Int = 20
