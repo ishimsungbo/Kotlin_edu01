@@ -1,4 +1,4 @@
-package chap03.section01
+package chap03.section1
 
 //fun 함수 이름([변수 이름: 자료형, 변수이름 : 자료형]): 반환값의 자료형{ 표현식  [return 반환값] }
 fun sum(a:Int, b:Int): Int{
